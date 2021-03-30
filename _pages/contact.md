@@ -44,15 +44,16 @@ hope to start tweeting more often about all things tech, computer science, life!
 
 <br><br><br>
 <div>
+<a href="https://www.github.com/aakash1104">
 <img style="float: left; margin: 0px 15px 15px 0px;"
 src="../../assets/img/logos/github.png" 
 width="100" />
-
-Some of my side projects (including this website) is hosted on 
+</a>
+Some of my side projects, including this website, are hosted on 
 github. Feel free to contribute to anything by opening an issue or submitting
 a pull request. My <a href="https://github.com/aakash1104/Graph-Algorithms"> most popular</a> 
 github repo is a crash course on graph algorithms to prepare you for technical 
-interviews (having close to 60 stars)
+interviews.
 </div>
 
 <br><br>
