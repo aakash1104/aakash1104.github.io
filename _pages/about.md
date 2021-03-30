@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-description: Software engineer and avid chai drinker
+description: > 
+    Software engineer and avid chai drinker <br>
+    📍 Mountain View, CA
 
 profile:
   align: right
@@ -15,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ## about
-Hi there!👋 I'm currently a second year computer science graduate student at 
+Hi there! I'm currently a second year computer science graduate student at 
 [UC Davis](https://www.cs.ucdavis.edu). I also got my bachelor's degree here in
 2019! Currently, I'm a software engineering intern at [Intel](https://intel.com)'s
 Client Compute Group (CCG) working on performance optimization.
