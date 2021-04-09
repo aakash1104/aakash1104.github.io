@@ -32,7 +32,7 @@ LinkedIn, please add a note especially if we do not know each other personally.
 
 <br><br><br>
 <div>
-<a href="https://www.twitter.com/aak_prabhu">
+<a href="https://www.twitter.com/aakprabhu_">
 <img style="float: left; margin: 0px 15px 15px 0px;"
 src="../../assets/img/logos/twitter.png" 
 width="100" />
