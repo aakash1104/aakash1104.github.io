@@ -47,7 +47,9 @@ more than anything else (_please don't call chai tea latte authentic_)
 * Over the weekends, I hike and explore the beautiful trails that California has
       to offer.
 
-## recent highlights 
+## recent highlights
+* [Apr 2021] Had a wonderful time judging some amazing projects from [Lovelace
+  Hacks](https://sachacks.io/lovelace).
 * [Mar 2021] Just got back from (virtual) [SIGCSE](https://sigcse2021.sigcse.org/).
 * [Mar 2021] Our first offering of the _missing cs class_ is complete and it was
   a great success!
