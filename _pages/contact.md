@@ -1,6 +1,7 @@
 ---
 layout: page
 title: contact
+permalink: /contact
 nav: true
 ---
 I can be reached through several platforms:
