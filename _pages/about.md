@@ -16,19 +16,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-## about
-Hi there! I'm currently a second year computer science graduate student at 
-[UC Davis](https://www.cs.ucdavis.edu). I also got my bachelor's degree here in
-2019! Currently, I'm a software engineering intern at [Intel](https://intel.com)'s
-Client Compute Group (CCG) working on performance optimization.
+## about 🤔 
 
-**What's next?** 🤔 
+I am a software engineer at [Flexport](https://flexport.com). I graduated with a
+Master's degree in Computer Science from UC Davis in 2021. I also got my
+Bachelor's degree here in 2019.
 
-In the summer of 2021, I will be joining [Flexport](https://flexport.com) (at
-their HQ in San Francisco) as a  full time software engineer helping global 
-trade be as easy as clicking a button.
 
 **Previously, I...** 🤷
+* was a software engineering intern at [Intel](https://intel.com) working on
+  performance optimization.
 * was a software engineering intern at [LendingClub](https://lendingclub.com)
 * co-founded the [CERD](https://cerd.cs.ucdavis.edu) seminar at UC 
 Davis: a weekly seminar that broadly focuses on computing education 
@@ -48,6 +45,7 @@ more than anything else (_please don't call chai tea latte authentic_)
       to offer.
 
 ## recent highlights
+* [Jun 2021] Graduated from UC Davis! Onto my next journey 😊
 * [Apr 2021] Had a wonderful time judging some amazing projects from [Lovelace
   Hacks](https://sachacks.io/lovelace).
 * [Mar 2021] Just got back from (virtual) [SIGCSE](https://sigcse2021.sigcse.org/).
